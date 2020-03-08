@@ -23,9 +23,6 @@
       "package": "com.originof.covid19",
       "versionCode": 2,
       "permissions": [],
-      "config": {
-        "googleMobileAdsAppId": ""
-      },
       "splash": {
         "mdpi": "./assets/img/splash/splash-mdpi.png",
         "hdpi": "./assets/img/splash/splash-hdpi.png",
